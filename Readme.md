@@ -11,17 +11,17 @@ sbt compile
 # Test
 
 ```bash
-sbr model/run
+sbt model/run
 ```
 
 ```bash
-sbr dao/run
+sbt dao/run
 ```
 
 ```bash
-sbr service/run
+sbt service/run
 ```
 
 ```bash
-sbr web/run
+sbt web/run
 ```
